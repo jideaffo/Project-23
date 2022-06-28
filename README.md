@@ -564,6 +564,7 @@ output:
 deployment.apps/nginx-deployment restarted
 This will terminate the running pod and spin up a new one.
 
+# SCREENSHOTS
 
 ![alt text](./images/b.PNG)
 
